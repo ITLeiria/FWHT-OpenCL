@@ -7,5 +7,5 @@ A normal Fast Walsh-Hadamard Transform (FWHT) implementation (with matrix sum re
 * File [hadocl.c] contains the program definition as well as the FWHT function.
 
 
-[def.h]: sequential/def.h
-[hadocl.c]: sequential/hadocl.c
+[def.h]: def.h
+[hadocl.c]: hadocl.c
