@@ -8,5 +8,5 @@ This project includes:
     - Optimized for manycore CPU enviroments (with or without SIMD)
 
 
-[sequential]: <https://github.com/ITLeiria/FWHT-OpenCL/tree/master/sequential>
-[parallel]: <https://github.com/ITLeiria/FWHT-OpenCL/tree/master/parallel>
+[sequential]: (sequential)
+[parallel]: (parallel)
