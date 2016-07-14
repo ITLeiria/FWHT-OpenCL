@@ -8,5 +8,5 @@ This project includes:
     - Optimized for manycore CPU enviroments (with or without SIMD)
 
 
-[sequential]: (sequential)
-[parallel]: (parallel)
+[sequential]: sequential
+[parallel]: parallel
