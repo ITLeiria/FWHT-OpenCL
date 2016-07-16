@@ -1,5 +1,5 @@
 # FWHT-OpenCL
-Fast Walsh-Hadamard Transform (FWHT) implementation over OpenCL for GPU and CPU.
+Fast Walsh-Hadamard Transform (FWHT) OpenCL implementation for GPU and CPU.
 
 This project includes:
   - a [sequential] FWHT implementation in C
